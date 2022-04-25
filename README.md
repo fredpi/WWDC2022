@@ -6,6 +6,4 @@ The app is best run on a 12.9" iPad Pro via Xcode. To run the app, it is needed 
 
 ## How It Looks
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/fredpi/WWDC2022/main/AppPreview.png">
-</p>
+![Preview](AppPreview.png)
